@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: reddychitti15/catalogue
+  imageVersion: v1
+service:
+  servicePort: 8080 # default value

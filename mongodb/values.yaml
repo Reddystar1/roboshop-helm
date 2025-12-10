@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: reddychitti15/mongodb
+  imageVersion: v1
+service:
+  type: ClusterIP
